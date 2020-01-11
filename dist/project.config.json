@@ -1,0 +1,16 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "learn-taro",
+  "description": "learn taro",
+  "appid": "wx2529d5280b91eeda",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
+}
